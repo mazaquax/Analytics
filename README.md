@@ -1,5 +1,5 @@
 # Analytics
-Here are some my personal projects on data analysis
+Here are some of my personal projects on data analysis
 
 # Nobel Laureates
 It's a dataset from Kaggle (https://www.kaggle.com/nobelfoundation/nobel-laureates). The notebook includes data cleaning, processing and my personal analysis of the data.
